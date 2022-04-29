@@ -1184,6 +1184,11 @@ input, select, textarea {
 		width: 200px;
 		border-radius: 5px;
 	}
+
+	.contact-me {
+		line-height: 15px;
+	}
+
 	header {
 		margin-bottom: 1em;
 	}
