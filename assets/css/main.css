@@ -1180,7 +1180,10 @@ input, select, textarea {
 		}
 
 /* Sections/Article */
-
+	.profile-pic {
+		width: 200px;
+		border-radius: 5px;
+	}
 	header {
 		margin-bottom: 1em;
 	}
